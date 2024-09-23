@@ -24,6 +24,15 @@ RAW_DATA_DIR_KEY="raw.csv"
 TRAIN_DATA_DIR_KEY ="train.csv"
 TEST_DATA_DIR_KEY = "test.csv"
 
+# Data transformation related variable
+DATA_TRANSFORMATION_ARTIFACT = "data_transformation"
+DATA_PREPROCESSED_DIR= "processor"
+DATA_TRANSFORMATION_PREPROCESSING_OBJ= "processor.pkl"
+DATA_TRANSFORMED_DIR = "transformation"
+TRANSFORMED_TRAIN_DIR_KEY = "train.csv"
+TRANSFORMED_TEST_DIR_KEY = "test.csv"
+#### artifact/ datatransformation/ processor->processor.pkl and transformation -> train.csv and test.csv
+
 
 
 
