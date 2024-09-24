@@ -3,7 +3,7 @@ import os, sys
 
 ROOT_DIR = ROOT_DIR_KEY
 
-# data ingestion config
+# data ingestion 
 
 DATASET_PATH = os.path.join(ROOT_DIR, DATA_DIR, DATA_DIR_KEY)
 
@@ -36,7 +36,8 @@ FEATURE_ENG_OBJ_PATH = os.path.join(ROOT_DIR,ARTIFACT_DIR_KEY,
                                       'feature_eng.pkl')
 
 
-
+# model training 
+MODEL_FILE_PATH = os.path.join(ROOT_DIR, ARTIFACT_DIR_KEY, MODEL_TRAINER_KEY, MODEL_OBJECT)
 
 
 
