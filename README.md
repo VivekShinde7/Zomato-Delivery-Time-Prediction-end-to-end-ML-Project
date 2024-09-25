@@ -30,5 +30,5 @@ The model provides a reliable estimate of delivery time, making it a useful tool
 
 4. Run the project:
     ```bash
-    python main.py
+    python app.py
     ```
