@@ -13,7 +13,7 @@ The model provides a reliable estimate of delivery time, making it a useful tool
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/zomato-delivery-time-prediction.git
+    git clone https://github.com/VivekShinde7/zomato-delivery-time-prediction.git
     cd zomato-delivery-time-prediction
     ```
 
